@@ -6,6 +6,6 @@ scalaVersion := "2.11.7"
 
 
 libraryDependencies ++= Seq(
-	"com.datastax.cassandra" % "cassandra-driver-core" % "2.2.0-rc2",
+	"com.datastax.cassandra" % "cassandra-driver-core" % "3.0.0",
 	"org.scalatest" %% "scalatest" % "2.2.5" % "test"
 )
